@@ -53,7 +53,7 @@ const WelcomePage = () => {
             variant="h1"
             sx={{ fontSize: { xs: 35, md: 45 }, textAlign: "center" }}
           >
-            Welcome to TwinkConnect 😺
+            Welcome to Resolvix-Ticketing
           </Typography>
           <Typography
             component="h2"
@@ -61,7 +61,7 @@ const WelcomePage = () => {
             color="primary"
             sx={{ textAlign: "center", mb: { xs: 2, md: 0 } }}
           >
-            A robust web-based Real-Time Chat App developed by Vaibhaw Mishra.
+            A robust web-based Real-Time Chat App developed by resolvix team.
           </Typography>
 
           <Button
@@ -144,14 +144,14 @@ const WelcomePage = () => {
             </Typography>
           </Divider>
           <Typography variant="body1">
-            TwinkConnect is a real-time web-based chat application developed by
-            Vaibhaw Mishra. Boasting not only a visually appealing UI but also
-            packed with an array of enticing features, TwinkConnect is designed
+            Resolvix-Ticketing is a real-time web-based chat application developed by
+            resolvix team. Boasting not only a visually appealing UI but also
+            packed with an array of enticing features, Resolvix-Ticketing is designed
             to provide with the best user experience. Powered by the dynamic
             MERN stack and enriched with the sleek design elements of
             Material-UI (MUI), this application delivers a seamless chatting
             experience. From connecting with friends to instant messaging
-            system, TwinkConnect ensures not just connectivity but a symphony of
+            system, Resolvix-Ticketing ensures not just connectivity but a symphony of
             interactivity and speed for its users.
           </Typography>
         </Stack>
