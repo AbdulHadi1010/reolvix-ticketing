@@ -15,17 +15,17 @@ const WelcomePage = () => {
   const SocialArray = [
     {
       bg: "#2b3137",
-      link: "https://github.com/itsvaibhavmishra",
+      link: "https://github.com/AbdulHadi1010/resolvix-ticketing",
       icon: <GithubLogo color="#fafbfc" weight="duotone" alt="github" />,
     },
     {
       bg: "radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%)",
-      link: "https://instagram.com/itsvaibhavmishra",
+      link: "https://www.instagram.com/ucpfoit/",
       icon: <InstagramLogo color="#fff" alt="instagram" />,
     },
     {
       bg: "#0A66C2",
-      link: "https://www.linkedin.com/in/itsvaibhavmishra",
+      link: "https://pk.linkedin.com/company/ucpfoit",
       icon: <LinkedinLogo color="#fff" alt="linkedin" />,
     },
   ];
@@ -41,7 +41,8 @@ const WelcomePage = () => {
           },
           gap: 2,
           alignItems: "center",
-          backgroundColor: (theme) => theme.palette.background.paper,
+          // backgroundColor: (theme) => theme.palette.background.paper //
+          backgroundColor: "#6d6a6e",
           borderRadius: { xs: "20px 20px 0px 0px", md: "20px" },
           minHeight: { xs: 480, md: 430 },
         }}
@@ -140,18 +141,18 @@ const WelcomePage = () => {
               variant="h2"
               sx={{ fontSize: { xs: 25, md: 35 } }}
             >
-              What is TwinkConnect?
+              What is Resolvix-Ticketing?
             </Typography>
           </Divider>
           <Typography variant="body1">
             Resolvix-ticketing is a real-time web-based chat application developed by
             Rsolvix team. Boasting not only a visually appealing UI but also
-            packed with an array of enticing features, TwinkConnect is designed
+            packed with an array of enticing features, Resolvix-Ticketing is designed
             to provide with the best user experience. Powered by the dynamic
             MERN stack and enriched with the sleek design elements of
             Material-UI (MUI), this application delivers a seamless chatting
             experience. From connecting with friends to instant messaging
-            system, TwinkConnect ensures not just connectivity but a symphony of
+            system, Resolvix-Ticketing ensures not just connectivity but a symphony of
             interactivity and speed for its users.
           </Typography>
         </Stack>
