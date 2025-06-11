@@ -1,6 +1,7 @@
 {
+
   "short_name": "Resolvix-Ticketing | MERN Chat",
-  "name": "MERN Chat App by  resolvix team",
+  "name": "MERN Chat App by  Resolvix team",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,5 +19,6 @@
   "prefer_related_applications": false,
   "related_applications": [],
   "shortcuts": [],
+
   "categories": ["mern", "chat-app", "Resolvix-Ticketing", "communication", "chat"]
 }

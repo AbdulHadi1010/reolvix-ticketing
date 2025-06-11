@@ -19,10 +19,12 @@ import {
 const MembersList = [
   {
     _id: 0,
-    firstName: "Vaibhav",
-    lastName: "Mishra",
+    firstName: "Resolvix",
+    lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using Resolvix-Ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 2,
@@ -31,10 +33,12 @@ const MembersList = [
   },
   {
     _id: 1,
-    firstName: "Gaibhav",
-    lastName: "Mishra",
+    firstName: "resolvix",
+    lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using Resolvix-Ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 0,
@@ -43,10 +47,12 @@ const MembersList = [
   },
   {
     _id: 2,
-    firstName: "Baibhav",
-    lastName: "Mishra",
+    firstName: "resolvix",
+    lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using Resolvix-Ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing ",
+
     msg: "Hello",
     time: "9:36",
     unread: 5,
@@ -55,10 +61,12 @@ const MembersList = [
   },
   {
     _id: "65787ea22c8433b199ced18d",
-    firstName: "Aaibhav",
-    lastName: "Mishra",
+    firstName: "resolvix",
+    lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using Resolvix-Ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 0,

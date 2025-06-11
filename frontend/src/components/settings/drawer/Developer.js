@@ -1,11 +1,11 @@
 import { Box, Stack, Avatar, Typography, Button, alpha } from "@mui/material";
 
 // Devloper Logo
-import Logo from "../../../assets/icons/logo/VaibhawMishra.ico";
+import Logo from "../../../assets/icons/logo/resolvix.ico";
 
 export default function Developer() {
   const openLinkInNewTab = () => {
-    window.open("https://vaibhaw.netlify.app/", "_blank");
+    window.open("https://github.com/AbdulHadi1010/resolvix-ticketing", "_blank");
   };
 
   return (
@@ -22,7 +22,7 @@ export default function Developer() {
       <Stack direction={"column"} alignItems={"center"} spacing={2}>
         <Avatar
           src={Logo}
-          alt={"VaibhawMishra"}
+          alt={"Resolvix Team"}
           sx={{
             width: 90,
             height: 90,
@@ -37,7 +37,7 @@ export default function Developer() {
           variant="caption"
           sx={{ color: (theme) => theme.palette.text.primary }}
         >
-          Developed by Vaibhaw Mishra
+          Developed by Resolvix-Team
         </Typography>
       </Stack>
     </Box>

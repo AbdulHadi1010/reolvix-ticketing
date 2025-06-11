@@ -15,17 +15,17 @@ const WelcomePage = () => {
   const SocialArray = [
     {
       bg: "#2b3137",
-      link: "https://github.com/itsvaibhavmishra",
+      link: "https://github.com/AbdulHadi1010/resolvix-ticketing",
       icon: <GithubLogo color="#fafbfc" weight="duotone" alt="github" />,
     },
     {
       bg: "radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%)",
-      link: "https://instagram.com/itsvaibhavmishra",
+      link: "https://www.instagram.com/ucpfoit/",
       icon: <InstagramLogo color="#fff" alt="instagram" />,
     },
     {
       bg: "#0A66C2",
-      link: "https://www.linkedin.com/in/itsvaibhavmishra",
+      link: "https://pk.linkedin.com/company/ucpfoit",
       icon: <LinkedinLogo color="#fff" alt="linkedin" />,
     },
   ];
@@ -41,7 +41,8 @@ const WelcomePage = () => {
           },
           gap: 2,
           alignItems: "center",
-          backgroundColor: (theme) => theme.palette.background.paper,
+          // backgroundColor: (theme) => theme.palette.background.paper //
+          backgroundColor: "#6d6a6e",
           borderRadius: { xs: "20px 20px 0px 0px", md: "20px" },
           minHeight: { xs: 480, md: 430 },
         }}
@@ -53,7 +54,9 @@ const WelcomePage = () => {
             variant="h1"
             sx={{ fontSize: { xs: 35, md: 45 }, textAlign: "center" }}
           >
+
             Welcome to Resolvix-Ticketing
+
           </Typography>
           <Typography
             component="h2"
@@ -61,7 +64,8 @@ const WelcomePage = () => {
             color="primary"
             sx={{ textAlign: "center", mb: { xs: 2, md: 0 } }}
           >
-            A robust web-based Real-Time Chat App developed by resolvix team.
+            A robust web-based Real-Time Chat App developed by Resolvix team.
+
           </Typography>
 
           <Button
@@ -140,12 +144,12 @@ const WelcomePage = () => {
               variant="h2"
               sx={{ fontSize: { xs: 25, md: 35 } }}
             >
-              What is TwinkConnect?
+              What is Resolvix-Ticketing?
             </Typography>
           </Divider>
           <Typography variant="body1">
             Resolvix-Ticketing is a real-time web-based chat application developed by
-            resolvix team. Boasting not only a visually appealing UI but also
+            Resolvix team. Boasting not only a visually appealing UI but also
             packed with an array of enticing features, Resolvix-Ticketing is designed
             to provide with the best user experience. Powered by the dynamic
             MERN stack and enriched with the sleek design elements of
