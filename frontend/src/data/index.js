@@ -22,7 +22,9 @@ const MembersList = [
     firstName: "Resolvix",
     lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using Rsolvix-ticketing",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 2,
@@ -34,7 +36,9 @@ const MembersList = [
     firstName: "resolvix",
     lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using resolvix-ticketing",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 0,
@@ -46,7 +50,9 @@ const MembersList = [
     firstName: "resolvix",
     lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using resolvix-ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing ",
+
     msg: "Hello",
     time: "9:36",
     unread: 5,
@@ -58,7 +64,9 @@ const MembersList = [
     firstName: "resolvix",
     lastName: "ticketing",
     avatar: "",
-    activityStatus: "Hey there! I love using resolvix-ticketing ❤️",
+
+    activityStatus: "Hey there! I love using Resolvix-Ticketing",
+
     msg: "Hello",
     time: "9:36",
     unread: 0,
